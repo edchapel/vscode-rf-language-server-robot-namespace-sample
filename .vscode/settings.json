@@ -1,0 +1,4 @@
+{
+	"rfLanguageServer.logLevel": "debug",
+	"rfLanguageServer.trace.server": "verbose"
+}
